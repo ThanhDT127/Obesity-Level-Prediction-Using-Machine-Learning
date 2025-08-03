@@ -1,6 +1,6 @@
 # Obesity-Level-Prediction-Using-Machine-Learning
-This repository contains three Python projects demonstrating end-to-end obesity level classification using custom implementations of MLP, Naive Bayes, and One-vs-One SVM, alongside standard scikit-learn pipelines. 
----  ## 📂 Project Structure
+## This repository contains three Python projects demonstrating end-to-end obesity level classification using custom implementations of MLP, Naive Bayes, and One-vs-One SVM, alongside standard scikit-learn pipelines. 
+## 📂 Project Structure
 ├── mlp_obesity/ 
 │ └── mlp.ipynb # Colab notebook: data prep, training, loss plots, evaluation
 │
