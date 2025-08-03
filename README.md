@@ -18,6 +18,17 @@
 
 ---
 
+## Colab Notebook
+A ready-to-run notebook is provided for quick experimentation on Google Colab:  
+- Open in Colab:
+  - The notebook includes steps to:  
+1. Mount Google Drive (optional)  
+2. Install requirements  
+3. Download/unzip Kaggle data  
+4. Prepare path data  
+5. Launch training and view results  
+
+
 ## 🚀 Quickstart
 
 1. **Clone** this repo  
@@ -25,4 +36,8 @@
    git clone https://github.com/yourusername/obesity-classification-from-scratch.git
    cd obesity-classification-from-scratch
 -- pip install -r requirements.txt
+## result
+<img width="691" height="391" alt="image" src="https://github.com/user-attachments/assets/6a031e1b-4e68-4e48-9d98-f5b272af0623" />
+<img width="714" height="384" alt="image" src="https://github.com/user-attachments/assets/fd583fc6-ba00-4f92-a497-8e07d0988ef7" />
+<img width="778" height="403" alt="image" src="https://github.com/user-attachments/assets/871fb52e-1b30-4aca-9efb-b13b4bae75ac" />
 
